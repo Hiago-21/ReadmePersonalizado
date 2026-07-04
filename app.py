@@ -507,7 +507,7 @@ def generate_card():
                     <rect x="0" y="0" width="80" height="112" rx="12" ry="12" />
                 </clipPath>
             </defs>
-            <image x="0" y="0" width="80" height="112" href="{avatar_base64}" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)" />
+            <image x="0" y="0" width="80" height="112" href="{avatar_base64}" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)" style="image-rendering: optimizeQuality;" />
             <text x="100" y="25" class="fonte-principal texto-titulo">{nome}</text>
             <line x1="100" y1="35" x2="340" y2="35" stroke="#c8c8c8" stroke-width="1.5" stroke-dasharray="4" />
             
