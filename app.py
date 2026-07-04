@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 import math
 import requests
 import os
+import base64
 
 app = Flask(__name__)
 
@@ -269,6 +270,22 @@ def generate_card():
         print(f"Erro ao buscar dados do GitHub: {e}")
 
     # ==========================================
+    # CONVERTENDO IMAGEM PARA BASE64
+    # ==========================================
+    avatar_base64 = ""
+    try:
+        # Usamos o link raw direto do repositório
+        url_imagem = "https://raw.githubusercontent.com/Hiago-21/Hiago-21/main/draw.png"
+        req_img = requests.get(url_imagem)
+        
+        if req_img.status_code == 200:
+            # Transforma a imagem em texto Base64
+            codigo_b64 = base64.b64encode(req_img.content).decode('utf-8')
+            avatar_base64 = f"data:image/png;base64,{codigo_b64}"
+    except Exception as e:
+        print(f"Erro ao processar a imagem: {e}")
+
+    # ==========================================
     # ARMAZENAMENTO DOS SVGs
     # ==========================================
     svg_c = '''<path fill="#659AD3" d="M115.4 30.7L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.4 1 3.5l106.8-62c-.6-1.2-1.5-2.1-2.4-2.7z"/><path fill="#03599C" d="M10.7 95.3c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c0-.9-.1-1.9-.6-2.8l-106.6 62z"/><path fill="#fff" d="M85.3 76.1C81.1 83.5 73.1 88.5 64 88.5c-13.5 0-24.5-11-24.5-24.5s11-24.5 24.5-24.5c9.1 0 17.1 5 21.3 12.5l13-7.5c-6.8-11.9-19.6-20-34.3-20-21.8 0-39.5 17.7-39.5 39.5s17.7 39.5 39.5 39.5c14.6 0 27.4-8 34.2-19.8l-12.9-7.6z"/>'''
@@ -490,7 +507,7 @@ def generate_card():
                     <rect x="0" y="0" width="80" height="112" rx="12" ry="12" />
                 </clipPath>
             </defs>
-            <image x="0" y="0" width="80" height="112" href="https://github.com/Hiago-21/Hiago-21/blob/main/draw.png?raw=true" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)" />
+            <image x="0" y="0" width="80" height="112" href="{avatar_base64}" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)" />
             <text x="100" y="25" class="fonte-principal texto-titulo">{nome}</text>
             <line x1="100" y1="35" x2="340" y2="35" stroke="#c8c8c8" stroke-width="1.5" stroke-dasharray="4" />
             
