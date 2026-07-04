@@ -2,6 +2,7 @@ from flask import Flask, Response
 from datetime import datetime, timedelta
 import math
 import requests
+import os
 
 app = Flask(__name__)
 
@@ -237,6 +238,35 @@ def generate_card():
 
         calendario_svg += f'    </g>\n'
         calendario_svg += f'</g>\n'
+
+    # ==========================================
+    # BUSCANDO REPOSITÓRIOS E COMMITS
+    # ==========================================
+    GITHUB_USER = "Hiago-21"
+    GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+    
+    repositorios = "0"
+    commits = "0"
+
+    try:
+        headers = {"Accept": "application/vnd.github+json"}
+        if GITHUB_TOKEN:
+            headers["Authorization"] = f"Bearer {GITHUB_TOKEN}"
+
+        # 1. Buscando quantidade de Repositórios Públicos
+        url_repos = f"https://api.github.com/users/{GITHUB_USER}"
+        req_repos = requests.get(url_repos, headers=headers)
+        if req_repos.status_code == 200:
+            repositorios = str(req_repos.json().get("public_repos", 0))
+
+        # 2. Buscando o total de Commits (Usando a API de Busca)
+        url_commits = f"https://api.github.com/search/commits?q=author:{GITHUB_USER}"
+        req_commits = requests.get(url_commits, headers=headers)
+        if req_commits.status_code == 200:
+            commits = str(req_commits.json().get("total_count", 0))
+            
+    except Exception as e:
+        print(f"Erro ao buscar dados do GitHub: {e}")
 
     # ==========================================
     # ARMAZENAMENTO DOS SVGs
