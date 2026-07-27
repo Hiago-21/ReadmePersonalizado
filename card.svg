@@ -75,7 +75,7 @@
         <g transform="translate(50, 310)">
             <text x="140" y="3" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Horas Totais</text>
             <text x="140" y="23" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Programando</text>
-            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">12h</text>
+            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">28h</text>
 
             <g id="grafico-group" transform="translate(60, 100) rotate(-90)">
                 <circle r="35" cx="0" cy="0" class="grafico-fundo" />
@@ -85,59 +85,59 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Python" data-start="0.000000" data-end="241.695216" data-percent="67">
-  <title>Python (8h) - 67%</title>
-  <path d="M 35.000 0.000 A 35 35 0 1 1 -16.596 -30.815" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 1 1 -16.596 -30.815" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+                <g class="slice" data-name="Python" data-start="0.000000" data-end="123.150063" data-percent="34">
+  <title>Python (8h) - 34%</title>
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -19.139 29.303" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -19.139 29.303" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Gdscript3" data-start="241.695216" data-end="339.444482" data-percent="27">
-  <title>Gdscript3 (3h) - 27%</title>
-  <path d="M -16.596 -30.815 A 35 35 0 0 1 32.772 -12.289" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -16.596 -30.815 A 35 35 0 0 1 32.772 -12.289" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="Gdscript3" data-start="123.150063" data-end="243.605314" data-percent="33">
+  <title>Gdscript3 (8h) - 33%</title>
+  <path d="M -19.139 29.303 A 35 35 0 0 1 -15.559 -31.351" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -19.139 29.303 A 35 35 0 0 1 -15.559 -31.351" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Unknown" data-start="339.444482" data-end="354.586774" data-percent="4">
-  <title>Unknown (0,5h) - 4%</title>
-  <path d="M 32.772 -12.289 A 35 35 0 0 1 34.844 -3.302" class="slice-arc" stroke="#8b949e" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 32.772 -12.289 A 35 35 0 0 1 34.844 -3.302" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="C" data-start="243.605314" data-end="298.851002" data-percent="15">
+  <title>C (3,5h) - 15%</title>
+  <path d="M -15.559 -31.351 A 35 35 0 0 1 16.889 -30.656" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -15.559 -31.351 A 35 35 0 0 1 16.889 -30.656" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Text" data-start="354.586774" data-end="358.812530" data-percent="1">
-  <title>Text (0h) - 1%</title>
-  <path d="M 34.844 -3.302 A 35 35 0 0 1 34.992 -0.725" class="slice-arc" stroke="#8b949e" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 34.844 -3.302 A 35 35 0 0 1 34.992 -0.725" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="Html" data-start="298.851002" data-end="334.173018" data-percent="10">
+  <title>Html (2h) - 10%</title>
+  <path d="M 16.889 -30.656 A 35 35 0 0 1 31.504 -15.248" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 16.889 -30.656 A 35 35 0 0 1 31.504 -15.248" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="358.812530" data-end="360.000000" data-percent="0">
-  <title>C (0h) - 0%</title>
-  <path d="M 34.992 -0.725 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 34.992 -0.725 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="SQL" data-start="334.173018" data-end="360.000000" data-percent="7">
+  <title>SQL (1,5h) - 7%</title>
+  <path d="M 31.504 -15.248 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#ff8a65" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 31.504 -15.248 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
 
             <g transform="translate(160, 55)">
                 <g class="grafico-legend-item" data-name="Python" transform="translate(0, 0)">
-    <title>Python (8h) - 67%</title>
+    <title>Python (8h) - 34%</title>
     <circle cx="0" cy="0" r="5" fill="#a142f4"/>
     <text x="12" y="4" class="fonte-principal texto-legenda">Python <tspan class="texto-mutado">(8h)</tspan></text>
 </g>
 <g class="grafico-legend-item" data-name="Gdscript3" transform="translate(0, 22)">
-    <title>Gdscript3 (3h) - 27%</title>
+    <title>Gdscript3 (8h) - 33%</title>
     <circle cx="0" cy="0" r="5" fill="#4285f4"/>
-    <text x="12" y="4" class="fonte-principal texto-legenda">Gdscript3 <tspan class="texto-mutado">(3h)</tspan></text>
+    <text x="12" y="4" class="fonte-principal texto-legenda">Gdscript3 <tspan class="texto-mutado">(8h)</tspan></text>
 </g>
-<g class="grafico-legend-item" data-name="Unknown" transform="translate(0, 44)">
-    <title>Unknown (0,5h) - 4%</title>
-    <circle cx="0" cy="0" r="5" fill="#8b949e"/>
-    <text x="12" y="4" class="fonte-principal texto-legenda">Unknown <tspan class="texto-mutado">(0,5h)</tspan></text>
-</g>
-<g class="grafico-legend-item" data-name="Text" transform="translate(0, 66)">
-    <title>Text (0h) - 1%</title>
-    <circle cx="0" cy="0" r="5" fill="#8b949e"/>
-    <text x="12" y="4" class="fonte-principal texto-legenda">Text <tspan class="texto-mutado">(0h)</tspan></text>
-</g>
-<g class="grafico-legend-item" data-name="C" transform="translate(0, 88)">
-    <title>C (0h) - 0%</title>
+<g class="grafico-legend-item" data-name="C" transform="translate(0, 44)">
+    <title>C (3,5h) - 15%</title>
     <circle cx="0" cy="0" r="5" fill="#34a853"/>
-    <text x="12" y="4" class="fonte-principal texto-legenda">C <tspan class="texto-mutado">(0h)</tspan></text>
+    <text x="12" y="4" class="fonte-principal texto-legenda">C <tspan class="texto-mutado">(3,5h)</tspan></text>
+</g>
+<g class="grafico-legend-item" data-name="Html" transform="translate(0, 66)">
+    <title>Html (2h) - 10%</title>
+    <circle cx="0" cy="0" r="5" fill="#e34c26"/>
+    <text x="12" y="4" class="fonte-principal texto-legenda">Html <tspan class="texto-mutado">(2h)</tspan></text>
+</g>
+<g class="grafico-legend-item" data-name="SQL" transform="translate(0, 88)">
+    <title>SQL (1,5h) - 7%</title>
+    <circle cx="0" cy="0" r="5" fill="#ff8a65"/>
+    <text x="12" y="4" class="fonte-principal texto-legenda">SQL <tspan class="texto-mutado">(1,5h)</tspan></text>
 </g>
 
             </g>
@@ -149,7 +149,7 @@
                 <g transform="translate(15, 18) scale(1.3)">
                     <path fill="#8b949e" d="M7.105 15.21A3.001 3.001 0 1 1 5 15.17V8.83a3.001 3.001 0 1 1 2 0V12c.836-.628 1.874-1 3-1h4a3.001 3.001 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5.001 5.001 0 0 1 14 13h-4a3.001 3.001 0 0 0-2.895 2.21z"/>
                 </g>
-                <text x="55" y="40" class="fonte-principal badge-numero">56</text>
+                <text x="55" y="40" class="fonte-principal badge-numero">57</text>
                 <text x="55" y="55" class="fonte-principal badge-legenda">Total de Commits</text>
             </g>
 
