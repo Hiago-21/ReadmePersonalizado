@@ -43,22 +43,27 @@ def generate_card():
         else:
             return f"{valor}h".replace(".", ",")
 
-    # 1. Puxando dados do Gráfico (Últimos 30 dias)
+    # 1. Puxando dados do Gráfico
     wakatime_fatias = []
     horas_wakatime = "0 h"
     total_horas = 1.0
     soma_segundos_fatias = 0.0
 
     try:
-        req_stats = requests.get(f"{BASE_URL}/users/current/stats/last_30_days?api_key={WAKATIME_API_KEY}")
+        req_stats = requests.get(f"{BASE_URL}/users/current/stats/all_time?api_key={WAKATIME_API_KEY}")
         if req_stats.status_code == 200:
             stats_data = req_stats.json().get("data", {})
+            
             segundos_totais_reais = stats_data.get("total_seconds", 0)
             horas_wakatime = formatar_horas_custom(segundos_totais_reais)
             
-            for lang in stats_data.get("languages", [])[:5]:
+            idiomas_ignorados = ["unknown", "text", "other", "markdown", "plaintext", "csv", "json"]
+            linguagens_validas = [lang for lang in stats_data.get("languages", []) if lang["name"].lower() not in idiomas_ignorados]
+            
+            for lang in linguagens_validas[:5]:
                 nome_limpo = lang["name"].lower()
                 segundos_lang = lang["total_seconds"]
+                
                 soma_segundos_fatias += segundos_lang
                 
                 wakatime_fatias.append({
