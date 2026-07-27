@@ -1,0 +1,40 @@
+name: Gerar Card do Hiago Automaticamente
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *" # O robô roda todos os dias à meia-noite e ao meio-dia (UTC)
+  workflow_dispatch: # Permite rodar manualmente, se quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para o robô salvar o arquivo
+
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar Dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Gerar novo SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python generate_card.py
+
+      - name: Salvar a Imagem no Repositório
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add card.svg
+          # Se o arquivo não mudou, ele não faz nada. Se mudou, ele salva.
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualiza estatísticas do card" && git push)
