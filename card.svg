@@ -85,37 +85,37 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="148.881380" data-percent="41">
-  <title>Gdscript3 (11,5h) - 41%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -29.963 18.088" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -29.963 18.088" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="150.913837" data-percent="42">
+  <title>Gdscript3 (11,5h) - 42%</title>
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -30.586 17.014" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -30.586 17.014" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="148.881380" data-end="258.155947" data-percent="30">
+<g class="slice" data-name="Python" data-start="150.913837" data-end="259.136408" data-percent="30">
   <title>Python (8,5h) - 30%</title>
-  <path d="M -29.963 18.088 A 35 35 0 0 1 -7.184 -34.255" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -29.963 18.088 A 35 35 0 0 1 -7.184 -34.255" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -30.586 17.014 A 35 35 0 0 1 -6.596 -34.373" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -30.586 17.014 A 35 35 0 0 1 -6.596 -34.373" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="258.155947" data-end="306.495308" data-percent="13">
+<g class="slice" data-name="C" data-start="259.136408" data-end="307.010402" data-percent="13">
   <title>C (3,5h) - 13%</title>
-  <path d="M -7.184 -34.255 A 35 35 0 0 1 20.816 -28.137" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -7.184 -34.255 A 35 35 0 0 1 20.816 -28.137" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -6.596 -34.373 A 35 35 0 0 1 21.069 -27.948" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -6.596 -34.373 A 35 35 0 0 1 21.069 -27.948" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="306.495308" data-end="337.401679" data-percent="9">
+<g class="slice" data-name="Html" data-start="307.010402" data-end="337.619235" data-percent="9">
   <title>Html (2h) - 9%</title>
-  <path d="M 20.816 -28.137 A 35 35 0 0 1 32.313 -13.449" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 20.816 -28.137 A 35 35 0 0 1 32.313 -13.449" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 21.069 -27.948 A 35 35 0 0 1 32.364 -13.327" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 21.069 -27.948 A 35 35 0 0 1 32.364 -13.327" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="SQL" data-start="337.401679" data-end="360.000000" data-percent="6">
+<g class="slice" data-name="SQL" data-start="337.619235" data-end="360.000000" data-percent="6">
   <title>SQL (1,5h) - 6%</title>
-  <path d="M 32.313 -13.449 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#ff8a65" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 32.313 -13.449 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 32.364 -13.327 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#ff8a65" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 32.364 -13.327 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
 
             <g transform="translate(160, 55)">
                 <g class="grafico-legend-item" data-name="Gdscript3" transform="translate(0, 0)">
-    <title>Gdscript3 (11,5h) - 41%</title>
+    <title>Gdscript3 (11,5h) - 42%</title>
     <circle cx="0" cy="0" r="5" fill="#4285f4"/>
     <text x="12" y="4" class="fonte-principal texto-legenda">Gdscript3 <tspan class="texto-mutado">(11,5h)</tspan></text>
 </g>
