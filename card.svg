@@ -75,7 +75,7 @@
         <g transform="translate(50, 310)">
             <text x="140" y="3" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Horas Totais</text>
             <text x="140" y="23" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Programando</text>
-            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">31,5h</text>
+            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">32h</text>
 
             <g id="grafico-group" transform="translate(60, 100) rotate(-90)">
                 <circle r="35" cx="0" cy="0" class="grafico-fundo" />
@@ -85,30 +85,30 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="150.913837" data-percent="42">
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="150.632599" data-percent="42">
   <title>Gdscript3 (11,5h) - 42%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -30.586 17.014" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -30.586 17.014" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -30.502 17.164" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -30.502 17.164" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="150.913837" data-end="259.136408" data-percent="30">
+<g class="slice" data-name="Python" data-start="150.632599" data-end="258.590308" data-percent="30">
   <title>Python (8,5h) - 30%</title>
-  <path d="M -30.586 17.014 A 35 35 0 0 1 -6.596 -34.373" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -30.586 17.014 A 35 35 0 0 1 -6.596 -34.373" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -30.502 17.164 A 35 35 0 0 1 -6.924 -34.308" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -30.502 17.164 A 35 35 0 0 1 -6.924 -34.308" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="259.136408" data-end="307.010402" data-percent="13">
+<g class="slice" data-name="C" data-start="258.590308" data-end="306.347137" data-percent="13">
   <title>C (3,5h) - 13%</title>
-  <path d="M -6.596 -34.373 A 35 35 0 0 1 21.069 -27.948" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -6.596 -34.373 A 35 35 0 0 1 21.069 -27.948" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -6.924 -34.308 A 35 35 0 0 1 20.744 -28.190" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -6.924 -34.308 A 35 35 0 0 1 20.744 -28.190" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="307.010402" data-end="337.619235" data-percent="9">
+<g class="slice" data-name="Html" data-start="306.347137" data-end="337.674009" data-percent="9">
   <title>Html (2h) - 9%</title>
-  <path d="M 21.069 -27.948 A 35 35 0 0 1 32.364 -13.327" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 21.069 -27.948 A 35 35 0 0 1 32.364 -13.327" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 20.744 -28.190 A 35 35 0 0 1 32.376 -13.296" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 20.744 -28.190 A 35 35 0 0 1 32.376 -13.296" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="SQL" data-start="337.619235" data-end="360.000000" data-percent="6">
+<g class="slice" data-name="SQL" data-start="337.674009" data-end="360.000000" data-percent="6">
   <title>SQL (1,5h) - 6%</title>
-  <path d="M 32.364 -13.327 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#ff8a65" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 32.364 -13.327 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 32.376 -13.296 A 35 35 0 0 1 35.000 0.000" class="slice-arc" stroke="#ff8a65" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 32.376 -13.296 A 35 35 0 0 1 35.000 0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
@@ -169,218 +169,218 @@
                 <g transform="translate(0, 0)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
-        <title>08/07/2026 - Nenhuma atividade</title>
-        <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">08</text>
-    </g>
-</g>
-<g transform="translate(38, 0)">
-    <g class="cal-item">
-        <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>09/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">09</text>
     </g>
 </g>
-<g transform="translate(76, 0)">
+<g transform="translate(38, 0)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>10/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">10</text>
     </g>
 </g>
-<g transform="translate(114, 0)">
+<g transform="translate(76, 0)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>11/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">11</text>
     </g>
 </g>
-<g transform="translate(152, 0)">
+<g transform="translate(114, 0)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>12/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">12</text>
     </g>
 </g>
-<g transform="translate(190, 0)">
+<g transform="translate(152, 0)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>13/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">13</text>
     </g>
 </g>
-<g transform="translate(228, 0)">
+<g transform="translate(190, 0)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>14/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">14</text>
     </g>
 </g>
-<g transform="translate(0, 38)">
+<g transform="translate(228, 0)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>15/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">15</text>
     </g>
 </g>
-<g transform="translate(38, 38)">
+<g transform="translate(0, 38)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>16/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">16</text>
     </g>
 </g>
-<g transform="translate(76, 38)">
+<g transform="translate(38, 38)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>17/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">17</text>
     </g>
 </g>
-<g transform="translate(114, 38)">
+<g transform="translate(76, 38)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>18/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">18</text>
     </g>
 </g>
-<g transform="translate(152, 38)">
+<g transform="translate(114, 38)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>19/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">19</text>
     </g>
 </g>
-<g transform="translate(190, 38)">
+<g transform="translate(152, 38)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>20/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">20</text>
     </g>
 </g>
-<g transform="translate(228, 38)">
+<g transform="translate(190, 38)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>21/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">21</text>
     </g>
 </g>
-<g transform="translate(0, 76)">
+<g transform="translate(228, 38)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>22/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">22</text>
     </g>
 </g>
-<g transform="translate(38, 76)">
+<g transform="translate(0, 76)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>23/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">23</text>
     </g>
 </g>
-<g transform="translate(76, 76)">
+<g transform="translate(38, 76)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>24/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">24</text>
     </g>
 </g>
-<g transform="translate(114, 76)">
+<g transform="translate(76, 76)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>25/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">25</text>
     </g>
 </g>
-<g transform="translate(152, 76)">
+<g transform="translate(114, 76)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>26/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">26</text>
     </g>
 </g>
-<g transform="translate(190, 76)">
+<g transform="translate(152, 76)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>27/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">27</text>
     </g>
 </g>
-<g transform="translate(228, 76)">
+<g transform="translate(190, 76)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>28/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">28</text>
     </g>
 </g>
-<g transform="translate(0, 114)">
+<g transform="translate(228, 76)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#4285f4" rx="6" />
         <title>29/07/2026 - Gdscript3 (1h)</title>
         <text x="16" y="21" fill="#ffffff" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">29</text>
     </g>
 </g>
-<g transform="translate(38, 114)">
+<g transform="translate(0, 114)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#4285f4" rx="6" />
         <title>30/07/2026 - Gdscript3 (0,5h)</title>
         <text x="16" y="21" fill="#ffffff" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">30</text>
     </g>
 </g>
-<g transform="translate(76, 114)">
+<g transform="translate(38, 114)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>31/07/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">31</text>
     </g>
 </g>
-<g transform="translate(114, 114)">
+<g transform="translate(76, 114)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>01/08/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">01</text>
     </g>
 </g>
-<g transform="translate(152, 114)">
+<g transform="translate(114, 114)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>02/08/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">02</text>
     </g>
 </g>
-<g transform="translate(190, 114)">
+<g transform="translate(152, 114)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>03/08/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">03</text>
     </g>
 </g>
-<g transform="translate(228, 114)">
+<g transform="translate(190, 114)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>04/08/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">04</text>
     </g>
 </g>
-<g transform="translate(0, 152)">
+<g transform="translate(228, 114)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#4285f4" rx="6" />
         <title>05/08/2026 - Gdscript3 (1,5h)</title>
         <text x="16" y="21" fill="#ffffff" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">05</text>
     </g>
 </g>
-<g transform="translate(38, 152)">
+<g transform="translate(0, 152)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>06/08/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">06</text>
     </g>
 </g>
-<g transform="translate(76, 152)">
+<g transform="translate(38, 152)">
     <g class="cal-item">
         <rect width="32" height="32" fill="#cfd4d9" rx="6" />
         <title>07/08/2026 - Nenhuma atividade</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">07</text>
+    </g>
+</g>
+<g transform="translate(76, 152)">
+    <g class="cal-item">
+        <rect width="32" height="32" fill="#cfd4d9" rx="6" />
+        <title>08/08/2026 - Nenhuma atividade</title>
+        <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">08</text>
     </g>
 </g>
 <g transform="translate(114, 152)">
