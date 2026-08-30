@@ -75,7 +75,7 @@
         <g transform="translate(50, 310)">
             <text x="140" y="3" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Horas Totais</text>
             <text x="140" y="23" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Programando</text>
-            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">43h</text>
+            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">43,5h</text>
 
             <g id="grafico-group" transform="translate(60, 100) rotate(-90)">
                 <circle r="35" cx="0" cy="0" class="grafico-fundo" />
@@ -85,30 +85,30 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="125.794302" data-percent="35">
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="125.766365" data-percent="35">
   <title>Gdscript3 (11,5h) - 35%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.471 28.389" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.471 28.389" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.457 28.399" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.457 28.399" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="125.794302" data-end="216.523649" data-percent="25">
+<g class="slice" data-name="Python" data-start="125.766365" data-end="216.475562" data-percent="25">
   <title>Python (8,5h) - 25%</title>
-  <path d="M -20.471 28.389 A 35 35 0 0 1 -28.126 -20.830" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -20.471 28.389 A 35 35 0 0 1 -28.126 -20.830" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -20.457 28.399 A 35 35 0 0 1 -28.144 -20.807" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -20.457 28.399 A 35 35 0 0 1 -28.144 -20.807" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Javascript" data-start="216.523649" data-end="278.748468" data-percent="17">
+<g class="slice" data-name="Javascript" data-start="216.475562" data-end="278.686561" data-percent="17">
   <title>Javascript (5,5h) - 17%</title>
-  <path d="M -28.126 -20.830 A 35 35 0 0 1 5.323 -34.593" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -28.126 -20.830 A 35 35 0 0 1 5.323 -34.593" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -28.144 -20.807 A 35 35 0 0 1 5.286 -34.599" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -28.144 -20.807 A 35 35 0 0 1 5.286 -34.599" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="278.748468" data-end="319.864415" data-percent="11">
+<g class="slice" data-name="Html" data-start="278.686561" data-end="319.873328" data-percent="11">
   <title>Html (3,5h) - 11%</title>
-  <path d="M 5.323 -34.593 A 35 35 0 0 1 26.758 -22.561" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 5.323 -34.593 A 35 35 0 0 1 26.758 -22.561" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 5.286 -34.599 A 35 35 0 0 1 26.762 -22.557" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 5.286 -34.599 A 35 35 0 0 1 26.762 -22.557" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="319.864415" data-end="360.000000" data-percent="11">
+<g class="slice" data-name="C" data-start="319.873328" data-end="360.000000" data-percent="11">
   <title>C (3,5h) - 11%</title>
-  <path d="M 26.758 -22.561 A 35 35 0 0 1 35.000 0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 26.758 -22.561 A 35 35 0 0 1 35.000 0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 26.762 -22.557 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 26.762 -22.557 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
