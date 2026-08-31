@@ -44,7 +44,7 @@
             <line x1="100" y1="35" x2="340" y2="35" stroke="#c8c8c8" stroke-width="1.5" stroke-dasharray="4" />
             
             <text x="100" y="55" class="fonte-principal texto-bio">
-                <tspan x="100" dy="0">Estudante do 4º semestre de Ciência</tspan>
+                <tspan x="100" dy="0">Estudante do 3º semestre de Ciência</tspan>
                 <tspan x="100" dy="14">da Computação. Gosto de resolver</tspan>
                 <tspan x="100" dy="14">problemas através do código e tirar</tspan>
                 <tspan x="100" dy="14">ideias do papel, unindo lógica de</tspan>
@@ -85,30 +85,30 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="125.508274" data-percent="35">
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="125.496943" data-percent="35">
   <title>Gdscript3 (11,5h) - 35%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.329 28.491" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.329 28.491" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.323 28.495" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -20.323 28.495" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="125.508274" data-end="216.031324" data-percent="25">
+<g class="slice" data-name="Python" data-start="125.496943" data-end="216.011819" data-percent="25">
   <title>Python (8,5h) - 25%</title>
-  <path d="M -20.329 28.491 A 35 35 0 0 1 -28.304 -20.588" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -20.329 28.491 A 35 35 0 0 1 -28.304 -20.588" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -20.323 28.495 A 35 35 0 0 1 -28.311 -20.578" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -20.323 28.495 A 35 35 0 0 1 -28.311 -20.578" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Javascript" data-start="216.031324" data-end="278.658392" data-percent="17">
+<g class="slice" data-name="Javascript" data-start="216.011819" data-end="278.633233" data-percent="17">
   <title>Javascript (5,5h) - 17%</title>
-  <path d="M -28.304 -20.588 A 35 35 0 0 1 5.269 -34.601" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -28.304 -20.588 A 35 35 0 0 1 5.269 -34.601" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -28.311 -20.578 A 35 35 0 0 1 5.254 -34.603" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -28.311 -20.578 A 35 35 0 0 1 5.254 -34.603" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="278.658392" data-end="319.955674" data-percent="11">
+<g class="slice" data-name="Html" data-start="278.633233" data-end="319.959289" data-percent="11">
   <title>Html (3,5h) - 11%</title>
-  <path d="M 5.269 -34.601 A 35 35 0 0 1 26.794 -22.518" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 5.269 -34.601 A 35 35 0 0 1 26.794 -22.518" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 5.254 -34.603 A 35 35 0 0 1 26.796 -22.517" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 5.254 -34.603 A 35 35 0 0 1 26.796 -22.517" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="319.955674" data-end="360.000000" data-percent="11">
+<g class="slice" data-name="C" data-start="319.959289" data-end="360.000000" data-percent="11">
   <title>C (3,5h) - 11%</title>
-  <path d="M 26.794 -22.518 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 26.794 -22.518 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 26.796 -22.517 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 26.796 -22.517 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
@@ -149,7 +149,7 @@
                 <g transform="translate(15, 18) scale(1.3)">
                     <path fill="#8b949e" d="M7.105 15.21A3.001 3.001 0 1 1 5 15.17V8.83a3.001 3.001 0 1 1 2 0V12c.836-.628 1.874-1 3-1h4a3.001 3.001 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5.001 5.001 0 0 1 14 13h-4a3.001 3.001 0 0 0-2.895 2.21z"/>
                 </g>
-                <text x="55" y="40" class="fonte-principal badge-numero">76</text>
+                <text x="55" y="40" class="fonte-principal badge-numero">78</text>
                 <text x="55" y="55" class="fonte-principal badge-legenda">Total de Commits</text>
             </g>
 
