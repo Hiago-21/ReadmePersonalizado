@@ -44,7 +44,7 @@
             <line x1="100" y1="35" x2="340" y2="35" stroke="#c8c8c8" stroke-width="1.5" stroke-dasharray="4" />
             
             <text x="100" y="55" class="fonte-principal texto-bio">
-                <tspan x="100" dy="0">Estudante do 3º semestre de Ciência</tspan>
+                <tspan x="100" dy="0">Estudante do 4º semestre de Ciência</tspan>
                 <tspan x="100" dy="14">da Computação. Gosto de resolver</tspan>
                 <tspan x="100" dy="14">problemas através do código e tirar</tspan>
                 <tspan x="100" dy="14">ideias do papel, unindo lógica de</tspan>
