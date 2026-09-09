@@ -85,30 +85,30 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="116.149312" data-percent="32">
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="116.144067" data-percent="32">
   <title>Gdscript3 (11,5h) - 32%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -15.425 31.418" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -15.425 31.418" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -15.422 31.419" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -15.422 31.419" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="116.149312" data-end="199.159949" data-percent="23">
+<g class="slice" data-name="Python" data-start="116.144067" data-end="199.150954" data-percent="23">
   <title>Python (8,5h) - 23%</title>
-  <path d="M -15.425 31.418 A 35 35 0 0 1 -33.061 -11.487" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -15.425 31.418 A 35 35 0 0 1 -33.061 -11.487" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -15.422 31.419 A 35 35 0 0 1 -33.063 -11.482" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -15.422 31.419 A 35 35 0 0 1 -33.063 -11.482" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Javascript" data-start="199.159949" data-end="277.810446" data-percent="22">
+<g class="slice" data-name="Javascript" data-start="199.150954" data-end="277.814158" data-percent="22">
   <title>Javascript (8h) - 22%</title>
-  <path d="M -33.061 -11.487 A 35 35 0 0 1 4.756 -34.675" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -33.061 -11.487 A 35 35 0 0 1 4.756 -34.675" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -33.063 -11.482 A 35 35 0 0 1 4.759 -34.675" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -33.063 -11.482 A 35 35 0 0 1 4.759 -34.675" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="277.810446" data-end="323.278911" data-percent="13">
+<g class="slice" data-name="Html" data-start="277.814158" data-end="323.280569" data-percent="13">
   <title>Html (4,5h) - 13%</title>
-  <path d="M 4.756 -34.675 A 35 35 0 0 1 28.054 -20.927" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 4.756 -34.675 A 35 35 0 0 1 28.054 -20.927" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 4.759 -34.675 A 35 35 0 0 1 28.055 -20.926" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 4.759 -34.675 A 35 35 0 0 1 28.055 -20.926" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="323.278911" data-end="360.000000" data-percent="10">
+<g class="slice" data-name="C" data-start="323.280569" data-end="360.000000" data-percent="10">
   <title>C (3,5h) - 10%</title>
-  <path d="M 28.054 -20.927 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 28.054 -20.927 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 28.055 -20.926 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 28.055 -20.926 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
@@ -149,7 +149,7 @@
                 <g transform="translate(15, 18) scale(1.3)">
                     <path fill="#8b949e" d="M7.105 15.21A3.001 3.001 0 1 1 5 15.17V8.83a3.001 3.001 0 1 1 2 0V12c.836-.628 1.874-1 3-1h4a3.001 3.001 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5.001 5.001 0 0 1 14 13h-4a3.001 3.001 0 0 0-2.895 2.21z"/>
                 </g>
-                <text x="55" y="40" class="fonte-principal badge-numero">95</text>
+                <text x="55" y="40" class="fonte-principal badge-numero">96</text>
                 <text x="55" y="55" class="fonte-principal badge-legenda">Total de Commits</text>
             </g>
 
