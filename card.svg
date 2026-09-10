@@ -75,7 +75,7 @@
         <g transform="translate(50, 310)">
             <text x="140" y="3" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Horas Totais</text>
             <text x="140" y="23" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Programando</text>
-            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">49,5h</text>
+            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">50h</text>
 
             <g id="grafico-group" transform="translate(60, 100) rotate(-90)">
                 <circle r="35" cx="0" cy="0" class="grafico-fundo" />
@@ -85,30 +85,30 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="116.144067" data-percent="32">
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="114.655372" data-percent="32">
   <title>Gdscript3 (11,5h) - 32%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -15.422 31.419" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -15.422 31.419" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -14.601 31.809" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -14.601 31.809" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="116.144067" data-end="199.150954" data-percent="23">
+<g class="slice" data-name="Python" data-start="114.655372" data-end="196.598306" data-percent="23">
   <title>Python (8,5h) - 23%</title>
-  <path d="M -15.422 31.419 A 35 35 0 0 1 -33.063 -11.482" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -15.422 31.419 A 35 35 0 0 1 -33.063 -11.482" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -14.601 31.809 A 35 35 0 0 1 -33.542 -9.998" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -14.601 31.809 A 35 35 0 0 1 -33.542 -9.998" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Javascript" data-start="199.150954" data-end="277.814158" data-percent="22">
+<g class="slice" data-name="Javascript" data-start="196.598306" data-end="274.253232" data-percent="22">
   <title>Javascript (8h) - 22%</title>
-  <path d="M -33.063 -11.482 A 35 35 0 0 1 4.759 -34.675" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -33.063 -11.482 A 35 35 0 0 1 4.759 -34.675" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -33.542 -9.998 A 35 35 0 0 1 2.596 -34.904" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -33.542 -9.998 A 35 35 0 0 1 2.596 -34.904" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="277.814158" data-end="323.280569" data-percent="13">
-  <title>Html (4,5h) - 13%</title>
-  <path d="M 4.759 -34.675 A 35 35 0 0 1 28.055 -20.926" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 4.759 -34.675 A 35 35 0 0 1 28.055 -20.926" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="Html" data-start="274.253232" data-end="323.751226" data-percent="14">
+  <title>Html (5h) - 14%</title>
+  <path d="M 2.596 -34.904 A 35 35 0 0 1 28.226 -20.695" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 2.596 -34.904 A 35 35 0 0 1 28.226 -20.695" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="323.280569" data-end="360.000000" data-percent="10">
+<g class="slice" data-name="C" data-start="323.751226" data-end="360.000000" data-percent="10">
   <title>C (3,5h) - 10%</title>
-  <path d="M 28.055 -20.926 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 28.055 -20.926 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 28.226 -20.695 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 28.226 -20.695 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
@@ -130,9 +130,9 @@
     <text x="12" y="4" class="fonte-principal texto-legenda">Javascript <tspan class="texto-mutado">(8h)</tspan></text>
 </g>
 <g class="grafico-legend-item" data-name="Html" transform="translate(0, 66)">
-    <title>Html (4,5h) - 13%</title>
+    <title>Html (5h) - 14%</title>
     <circle cx="0" cy="0" r="5" fill="#e34c26"/>
-    <text x="12" y="4" class="fonte-principal texto-legenda">Html <tspan class="texto-mutado">(4,5h)</tspan></text>
+    <text x="12" y="4" class="fonte-principal texto-legenda">Html <tspan class="texto-mutado">(5h)</tspan></text>
 </g>
 <g class="grafico-legend-item" data-name="C" transform="translate(0, 88)">
     <title>C (3,5h) - 10%</title>
@@ -149,14 +149,14 @@
                 <g transform="translate(15, 18) scale(1.3)">
                     <path fill="#8b949e" d="M7.105 15.21A3.001 3.001 0 1 1 5 15.17V8.83a3.001 3.001 0 1 1 2 0V12c.836-.628 1.874-1 3-1h4a3.001 3.001 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5.001 5.001 0 0 1 14 13h-4a3.001 3.001 0 0 0-2.895 2.21z"/>
                 </g>
-                <text x="55" y="40" class="fonte-principal badge-numero">96</text>
+                <text x="55" y="40" class="fonte-principal badge-numero">98</text>
                 <text x="55" y="55" class="fonte-principal badge-legenda">Total de Commits</text>
             </g>
 
             <g transform="translate(180, 0)">
                 <rect width="160" height="70" class="borda-badge" rx="10"/>
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2v10Z" fill="#8b949e" transform="translate(15, 20)"/>
-                <text x="55" y="40" class="fonte-principal badge-numero">14</text>
+                <text x="55" y="40" class="fonte-principal badge-numero">15</text>
                 <text x="55" y="55" class="fonte-principal badge-legenda">Repositórios</text>
             </g>
         </g>
