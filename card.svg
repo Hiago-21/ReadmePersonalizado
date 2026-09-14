@@ -75,7 +75,7 @@
         <g transform="translate(50, 310)">
             <text x="140" y="3" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Horas Totais</text>
             <text x="140" y="23" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Programando</text>
-            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">51h</text>
+            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">52h</text>
 
             <g id="grafico-group" transform="translate(60, 100) rotate(-90)">
                 <circle r="35" cx="0" cy="0" class="grafico-fundo" />
@@ -85,52 +85,52 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="114.458909" data-percent="32">
-  <title>Gdscript3 (11,5h) - 32%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -14.491 31.859" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -14.491 31.859" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="112.395437" data-percent="31">
+  <title>Gdscript3 (11,5h) - 31%</title>
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -13.335 32.360" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -13.335 32.360" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="114.458909" data-end="196.261433" data-percent="23">
-  <title>Python (8,5h) - 23%</title>
-  <path d="M -14.491 31.859 A 35 35 0 0 1 -33.600 -9.801" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -14.491 31.859 A 35 35 0 0 1 -33.600 -9.801" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="Javascript" data-start="112.395437" data-end="196.019405" data-percent="23">
+  <title>Javascript (8,5h) - 23%</title>
+  <path d="M -13.335 32.360 A 35 35 0 0 1 -33.641 -9.659" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -13.335 32.360 A 35 35 0 0 1 -33.641 -9.659" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Javascript" data-start="196.261433" data-end="274.314707" data-percent="22">
-  <title>Javascript (8h) - 22%</title>
-  <path d="M -33.600 -9.801 A 35 35 0 0 1 2.633 -34.901" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -33.600 -9.801 A 35 35 0 0 1 2.633 -34.901" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="Python" data-start="196.019405" data-end="276.347188" data-percent="22">
+  <title>Python (8,5h) - 22%</title>
+  <path d="M -33.641 -9.659 A 35 35 0 0 1 3.869 -34.785" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -33.641 -9.659 A 35 35 0 0 1 3.869 -34.785" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="274.314707" data-end="323.813339" data-percent="14">
-  <title>Html (5h) - 14%</title>
-  <path d="M 2.633 -34.901 A 35 35 0 0 1 28.248 -20.665" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 2.633 -34.901 A 35 35 0 0 1 28.248 -20.665" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+<g class="slice" data-name="Html" data-start="276.347188" data-end="324.465714" data-percent="13">
+  <title>Html (5h) - 13%</title>
+  <path d="M 3.869 -34.785 A 35 35 0 0 1 28.482 -20.342" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 3.869 -34.785 A 35 35 0 0 1 28.482 -20.342" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="323.813339" data-end="360.000000" data-percent="10">
+<g class="slice" data-name="C" data-start="324.465714" data-end="360.000000" data-percent="10">
   <title>C (3,5h) - 10%</title>
-  <path d="M 28.248 -20.665 A 35 35 0 0 1 35.000 0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 28.248 -20.665 A 35 35 0 0 1 35.000 0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 28.482 -20.342 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 28.482 -20.342 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
 
             <g transform="translate(160, 55)">
                 <g class="grafico-legend-item" data-name="Gdscript3" transform="translate(0, 0)">
-    <title>Gdscript3 (11,5h) - 32%</title>
+    <title>Gdscript3 (11,5h) - 31%</title>
     <circle cx="0" cy="0" r="5" fill="#4285f4"/>
     <text x="12" y="4" class="fonte-principal texto-legenda">Gdscript3 <tspan class="texto-mutado">(11,5h)</tspan></text>
 </g>
-<g class="grafico-legend-item" data-name="Python" transform="translate(0, 22)">
-    <title>Python (8,5h) - 23%</title>
+<g class="grafico-legend-item" data-name="Javascript" transform="translate(0, 22)">
+    <title>Javascript (8,5h) - 23%</title>
+    <circle cx="0" cy="0" r="5" fill="#fbbc05"/>
+    <text x="12" y="4" class="fonte-principal texto-legenda">Javascript <tspan class="texto-mutado">(8,5h)</tspan></text>
+</g>
+<g class="grafico-legend-item" data-name="Python" transform="translate(0, 44)">
+    <title>Python (8,5h) - 22%</title>
     <circle cx="0" cy="0" r="5" fill="#a142f4"/>
     <text x="12" y="4" class="fonte-principal texto-legenda">Python <tspan class="texto-mutado">(8,5h)</tspan></text>
 </g>
-<g class="grafico-legend-item" data-name="Javascript" transform="translate(0, 44)">
-    <title>Javascript (8h) - 22%</title>
-    <circle cx="0" cy="0" r="5" fill="#fbbc05"/>
-    <text x="12" y="4" class="fonte-principal texto-legenda">Javascript <tspan class="texto-mutado">(8h)</tspan></text>
-</g>
 <g class="grafico-legend-item" data-name="Html" transform="translate(0, 66)">
-    <title>Html (5h) - 14%</title>
+    <title>Html (5h) - 13%</title>
     <circle cx="0" cy="0" r="5" fill="#e34c26"/>
     <text x="12" y="4" class="fonte-principal texto-legenda">Html <tspan class="texto-mutado">(5h)</tspan></text>
 </g>
@@ -149,14 +149,14 @@
                 <g transform="translate(15, 18) scale(1.3)">
                     <path fill="#8b949e" d="M7.105 15.21A3.001 3.001 0 1 1 5 15.17V8.83a3.001 3.001 0 1 1 2 0V12c.836-.628 1.874-1 3-1h4a3.001 3.001 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5.001 5.001 0 0 1 14 13h-4a3.001 3.001 0 0 0-2.895 2.21z"/>
                 </g>
-                <text x="55" y="40" class="fonte-principal badge-numero">102</text>
+                <text x="55" y="40" class="fonte-principal badge-numero">110</text>
                 <text x="55" y="55" class="fonte-principal badge-legenda">Total de Commits</text>
             </g>
 
             <g transform="translate(180, 0)">
                 <rect width="160" height="70" class="borda-badge" rx="10"/>
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2v10Z" fill="#8b949e" transform="translate(15, 20)"/>
-                <text x="55" y="40" class="fonte-principal badge-numero">16</text>
+                <text x="55" y="40" class="fonte-principal badge-numero">17</text>
                 <text x="55" y="55" class="fonte-principal badge-legenda">Repositórios</text>
             </g>
         </g>
@@ -382,8 +382,8 @@
 </g>
 <g transform="translate(76, 152)">
     <g class="cal-item">
-        <rect width="32" height="32" fill="#cfd4d9" rx="6" />
-        <title>14/09/2026 - Nenhuma atividade</title>
+        <rect width="32" height="32" fill="#fbbc05" rx="6" />
+        <title>14/09/2026 - Javascript (0,5h)</title>
         <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">14</text>
     </g>
 </g>
