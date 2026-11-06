@@ -75,7 +75,7 @@
         <g transform="translate(50, 310)">
             <text x="140" y="3" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Horas Totais</text>
             <text x="140" y="23" class="fonte-principal" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="end">Programando</text>
-            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">64h</text>
+            <text x="155" y="23" class="fonte-principal numero-horas" text-anchor="start">65h</text>
 
             <g id="grafico-group" transform="translate(60, 100) rotate(-90)">
                 <circle r="35" cx="0" cy="0" class="grafico-fundo" />
@@ -85,37 +85,37 @@
                     <circle r="2.2" cx="6" cy="-5" fill="#38434f" />
                     <path d="M -8 4 Q 0 12 8 4" stroke="#38434f" stroke-width="1.6" fill="none" stroke-linecap="round" />
                 </g>
-                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="101.805983" data-percent="28">
-  <title>Gdscript3 (13h) - 28%</title>
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -7.161 34.260" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 35.000 0.000 A 35 35 0 0 1 -7.161 34.260" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+                <g class="slice" data-name="Gdscript3" data-start="0.000000" data-end="102.843689" data-percent="29">
+  <title>Gdscript3 (13h) - 29%</title>
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -7.780 34.124" class="slice-arc" stroke="#4285f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 35.000 0.000 A 35 35 0 0 1 -7.780 34.124" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Javascript" data-start="101.805983" data-end="200.356254" data-percent="27">
+<g class="slice" data-name="Javascript" data-start="102.843689" data-end="200.997877" data-percent="27">
   <title>Javascript (12,5h) - 27%</title>
-  <path d="M -7.161 34.260 A 35 35 0 0 1 -32.814 -12.175" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -7.161 34.260 A 35 35 0 0 1 -32.814 -12.175" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -7.780 34.124 A 35 35 0 0 1 -32.676 -12.542" class="slice-arc" stroke="#fbbc05" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -7.780 34.124 A 35 35 0 0 1 -32.676 -12.542" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Python" data-start="200.356254" data-end="289.504719" data-percent="25">
+<g class="slice" data-name="Python" data-start="200.997877" data-end="289.788046" data-percent="25">
   <title>Python (11,5h) - 25%</title>
-  <path d="M -32.814 -12.175 A 35 35 0 0 1 11.686 -32.991" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M -32.814 -12.175 A 35 35 0 0 1 11.686 -32.991" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M -32.676 -12.542 A 35 35 0 0 1 11.849 -32.933" class="slice-arc" stroke="#a142f4" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M -32.676 -12.542 A 35 35 0 0 1 11.849 -32.933" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="Html" data-start="289.504719" data-end="330.879114" data-percent="11">
+<g class="slice" data-name="Html" data-start="289.788046" data-end="330.996153" data-percent="11">
   <title>Html (5h) - 11%</title>
-  <path d="M 11.686 -32.991 A 35 35 0 0 1 30.576 -17.033" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 11.686 -32.991 A 35 35 0 0 1 30.576 -17.033" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 11.849 -32.933 A 35 35 0 0 1 30.611 -16.970" class="slice-arc" stroke="#e34c26" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 11.849 -32.933 A 35 35 0 0 1 30.611 -16.970" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
-<g class="slice" data-name="C" data-start="330.879114" data-end="360.000000" data-percent="8">
+<g class="slice" data-name="C" data-start="330.996153" data-end="360.000000" data-percent="8">
   <title>C (3,5h) - 8%</title>
-  <path d="M 30.576 -17.033 A 35 35 0 0 1 35.000 -0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
-  <path d="M 30.576 -17.033 A 35 35 0 0 1 35.000 -0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
+  <path d="M 30.611 -16.970 A 35 35 0 0 1 35.000 0.000" class="slice-arc" stroke="#34a853" stroke-width="30" fill="none" stroke-linecap="butt" />
+  <path d="M 30.611 -16.970 A 35 35 0 0 1 35.000 0.000" class="slice-hit" stroke="transparent" stroke-width="44" fill="none" />
 </g>
 
             </g>
 
             <g transform="translate(160, 55)">
                 <g class="grafico-legend-item" data-name="Gdscript3" transform="translate(0, 0)">
-    <title>Gdscript3 (13h) - 28%</title>
+    <title>Gdscript3 (13h) - 29%</title>
     <circle cx="0" cy="0" r="5" fill="#4285f4"/>
     <text x="12" y="4" class="fonte-principal texto-legenda">Gdscript3 <tspan class="texto-mutado">(13h)</tspan></text>
 </g>
@@ -378,9 +378,9 @@
 </g>
 <g transform="translate(76, 152)">
     <g class="cal-item">
-        <rect width="32" height="32" fill="#cfd4d9" rx="6" />
-        <title>06/11/2026 - Nenhuma atividade</title>
-        <text x="16" y="21" fill="#000000" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">06</text>
+        <rect width="32" height="32" fill="#8b949e" rx="6" />
+        <title>06/11/2026 - Tex (0,5h)</title>
+        <text x="16" y="21" fill="#ffffff" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">06</text>
     </g>
 </g>
 <g transform="translate(114, 152)">
